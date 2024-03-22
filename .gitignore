@@ -1,0 +1,13 @@
+# macOS binary
+*.DS_Store
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.synctex.gz
+*.toc
